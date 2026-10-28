@@ -1,0 +1,6 @@
+{
+  "name": "Fish Mask & Gold Contour Lab",
+  "description": "渔见 AI · 鱼体分割、真实金色轮廓与鱼种转场独立实验室",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
